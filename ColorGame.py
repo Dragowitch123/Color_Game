@@ -79,7 +79,7 @@ root.geometry("375x200")
 
 # add an instructions label
 instructions = tkinter.Label(root, text="Type in the colour"
-                                        "of the words, and not the word text!",
+                                        " of the words, and not the word text!",
                              font=('Helvetica', 12))
 instructions.pack()
 
